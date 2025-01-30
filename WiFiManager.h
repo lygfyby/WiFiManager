@@ -136,7 +136,7 @@
 // Include wm strings vars
 // Pass in strings env override via WM_STRINGS_FILE
 #ifndef WM_STRINGS_FILE
-#define WM_STRINGS_FILE "wm_strings_en.h" // this includes constants as dependency
+#define WM_STRINGS_FILE "wm_strings_tw.h" // this includes constants as dependency
 #endif
 #include WM_STRINGS_FILE
 
