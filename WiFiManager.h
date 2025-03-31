@@ -803,7 +803,7 @@ protected:
     
     // Set default debug level
     #ifndef WM_DEBUG_LEVEL
-    #define WM_DEBUG_LEVEL WM_DEBUG_NOTIFY
+    #define WM_DEBUG_LEVEL WM_DEBUG_ERROR
     #endif
 
     // override debug level OFF
